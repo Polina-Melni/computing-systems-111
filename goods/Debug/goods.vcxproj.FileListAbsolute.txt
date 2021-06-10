@@ -1,2 +1,0 @@
-D:\OOP\practice\task 1\goods\Debug\goods.exe
-D:\OOP\practice\task 1\goods\Debug\goods.pdb
